@@ -1,0 +1,24 @@
+@import url('https://use.fontawesome.com/releases/v5.15.3/css/all.css');
+
+.icon-menu  {
+  font-family: Fontello;
+  font-size: 20px;
+  vertical-align: middle;
+  margin-right: 10px;
+  
+}
+
+.icon-equis {
+  font-family: Fontello;
+  font-size: 20px;
+  vertical-align: middle;
+  margin-left: 10px;
+}
+
+.icon-menu:before {
+  content: "\e900";
+}
+
+.icon-equis:before {
+  content: "\e901";
+}
